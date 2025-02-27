@@ -5,7 +5,7 @@ public class Katror  extends Pyramdie {
         super(hohe);
         this.baseLength = baseLength;
     }
-
+//ewd
     @Override
     public float calc_volumen() {
         return (1.0f / 3) * (baseLength * baseLength) * getHohe();
